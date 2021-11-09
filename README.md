@@ -17,3 +17,10 @@ In this course you learn everything there is to learn about Spring Data JPA allo
 - Many to Many relationships
 - Transactions
 
+
+
+## Uses
+
+- postgreSQL
+- Hibernate
+- JPA
