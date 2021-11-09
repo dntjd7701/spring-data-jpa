@@ -18,6 +18,9 @@ In this course you learn everything there is to learn about Spring Data JPA allo
 - Transactions
 
 
+## IDE
+
+- IntelliJ
 
 ## Uses
 
